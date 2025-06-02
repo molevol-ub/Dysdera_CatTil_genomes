@@ -7,7 +7,7 @@ Included files:
 - Proteins
 - Functional annotation table
 
-Raw data is diposited under bioproject XXXX and includes:
+Raw data is diposited under bioproject XXXX and includes raw sequencing data and the final genome assemblies:
 - A
 - B
 - C
