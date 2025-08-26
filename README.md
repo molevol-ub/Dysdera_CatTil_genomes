@@ -6,7 +6,7 @@ Included files:
 - CDS
 - Proteins
 
-Raw data has been deposited under bioproject [**PRJNA1270787**](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1270787/) and includes raw sequencing data and the final genome assemblies:
+Raw data has been deposited under bioproject [**PRJNA1270787**](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1270787/) and includes [raw sequencing data](https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA1270787&o=acc_s%3Aa) and the final genome assemblies:
 accession | bioproject_accession | biosample_accession | sample_name | library_ID
 --- | --- | --- | --- | --- 
 SRR33784507 | PRJNA1270787 | SAMN48841784 | D.catalonica OmniC | DTG-OmniC 342
